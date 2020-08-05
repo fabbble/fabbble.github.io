@@ -9,5 +9,22 @@
         "name": "Krupesh Anadkat"
     },
     "items": [
+        {
+            "id": "https://fabbble.github.io/fabbble.github.io/cooking-the-rest-api-spaghetti-with-python-part-1/",
+            "url": "https://fabbble.github.io/fabbble.github.io/cooking-the-rest-api-spaghetti-with-python-part-1/",
+            "title": "Cooking The REST API Spaghetti With Python - Part 1 ",
+            "summary": " In this article we will learn how to create a Scalable, Modular &amp; Persistent API with Flask python package. ",
+            "content_html": "\n  <p>\n    In this article we will learn how to create a <i>Scalable, Modular &amp; Persistent </i>API with Flask python package.\n  </p>",
+            "image": "https://fabbble.github.io/fabbble.github.io/media/posts/1/clem-onojeghuo-wiyl0_FGGKo-unsplash-1.jpg",
+            "author": {
+                "name": "Krupesh Anadkat"
+            },
+            "tags": [
+                   "REST API",
+                   "Python"
+            ],
+            "date_published": "2020-08-05T20:37:19+05:30",
+            "date_modified": "2020-08-05T20:37:19+05:30"
+        }
     ]
 }
